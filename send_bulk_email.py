@@ -48,7 +48,7 @@ def attach_file(mail, attachment_path):
 
 def main():
     # Email content
-    subject = "USF ACM AI Convention 2025"
+    subject = "Request for Support: ACM AI Convention 2025"
     body = """
     <html>
     <body>
